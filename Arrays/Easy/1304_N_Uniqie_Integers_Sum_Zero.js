@@ -17,7 +17,7 @@
 // Output: [0]
 
 // SOLUTION 1: PRETTY SLOW )=
-// Refactoring for more speed!
+// Refactoring for more speed tomorrow!
 
 /**
  * @param {number} n
